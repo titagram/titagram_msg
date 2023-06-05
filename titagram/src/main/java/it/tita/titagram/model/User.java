@@ -18,4 +18,6 @@ public class User {
     private String password;
 
     // getters and setters con Lombok ..
+
+    //prova1
 }
